@@ -1,0 +1,9 @@
+    {{ template "chrome/header.html" .}}
+
+    <div class="row-fluid">
+        <section id="content" class="body">
+            <h2>{{ .Title }}</h2>
+            {{ .Content }}
+        </section>
+    </div>
+    {{ template "chrome/footer.html" }}

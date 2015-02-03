@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl : "http://web.cecs.pdx.edu/~jiangkai"
+languageCode : "en-us"
+title : "vectorijk"
+canonifyurls : true
+...
