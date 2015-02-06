@@ -1,14 +1,14 @@
 ---
-date :"2015-02-03T04:33:41-08:00"
-draft :true
-type :page
+date : "2015-02-03T04:33:41-08:00"
+type : page
 title : "test unicode and mathjex"
 
 ---
 
 `$ f(x) = x^{-1} + sqrt{x} $`
 
-{{% highlight C++ %}}
+
+```
 /***
 Algorithms: Design and Analysis, Part 1
 Week 1
@@ -74,9 +74,10 @@ int test1[] = {1,3,5,2,4,6}; //test #1: 3
 int test2[] = {8,7,6,5,4,3,2,1}; //test #2: 28
 return 0;
 }
-{{% /highlight %}}
+```
 
 
+```
 海平面远方开始阴霾
 悲伤要怎么平静纯白
 我的脸上 始终挟带
@@ -125,3 +126,4 @@ return 0;
 热情不再 （你的）
 笑容勉强不来
 爱深埋珊瑚海
+```

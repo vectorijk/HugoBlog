@@ -6,4 +6,4 @@ type: page
 
 I'm a senior, major in Computer Science.
 
-`ME :: [C, Java, Python, FP, Golang] -> Coffee -> Code` 
+ME :: [C, Java, Python, FP, Golang] -> Coffee -> Code
