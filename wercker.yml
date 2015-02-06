@@ -9,3 +9,4 @@ deploy:
         token: $GIT_TOKEN
         basedir: public
         repo: vectorijk/vectorijk.github.io
+        domain: www.vectorijk.info
