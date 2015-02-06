@@ -4,7 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl : "http://web.cecs.pdx.edu/~jiangkai/"
+baseurl : "http://vectorijk.github.io/"
 languageCode : "en-us"
 title : "vectorijk"
 canonifyurls : true
